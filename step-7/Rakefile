@@ -1,0 +1,12 @@
+require 'rake'
+require 'webrick'
+
+task :default => :serve
+
+task :serve => :build do
+  WEBrick::HTTPServer.new(:DocumentRoot => "./", :Port => 8000).start
+end
+
+task :build do
+  sh 'elm-make --yes phonecat.elm --output phonecat.js'
+end
