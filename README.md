@@ -22,17 +22,17 @@ Successfully generated phonecat.html
 
 # Steps
 
- * **[step-0]https://github.com/doloopwhile/elm-phonecat/tree/master/step-0)** Bootstrapping
- * **[step-1]https://github.com/doloopwhile/elm-phonecat/tree/master/step-1)** Construct element from a list
- * **[step-2]https://github.com/doloopwhile/elm-phonecat/tree/master/step-2)** Record and type alias rather than tuple
- * **[step-3]https://github.com/doloopwhile/elm-phonecat/tree/master/step-3)** Field and filtering a list
- * **[step-4]https://github.com/doloopwhile/elm-phonecat/tree/master/step-4)** Dropdown and sorting a list
- * **[step-5]https://github.com/doloopwhile/elm-phonecat/tree/master/step-5)** Http and Json.Decoder
- * **[step-6]https://github.com/doloopwhile/elm-phonecat/tree/master/step-6)** Images and Links
- * **[step-7]https://github.com/doloopwhile/elm-phonecat/tree/master/step-7)** Port and emulating route
- * **[step-8]https://github.com/doloopwhile/elm-phonecat/tree/master/step-8)** Implement sub pages
- * **[step-9]https://github.com/doloopwhile/elm-phonecat/tree/master/step-9)** Checkbox (ngFilter is large topic for AngularJS but trivial for Elm)
- * **[step-A]https://github.com/doloopwhile/elm-phonecat/tree/master/step-A)** Clickable
+ * **[step-0](https://github.com/doloopwhile/elm-phonecat/tree/master/step-0)** Bootstrapping
+ * **[step-1](https://github.com/doloopwhile/elm-phonecat/tree/master/step-1)** Construct element from a list
+ * **[step-2](https://github.com/doloopwhile/elm-phonecat/tree/master/step-2)** Record and type alias rather than tuple
+ * **[step-3](https://github.com/doloopwhile/elm-phonecat/tree/master/step-3)** Field and filtering a list
+ * **[step-4](https://github.com/doloopwhile/elm-phonecat/tree/master/step-4)** Dropdown and sorting a list
+ * **[step-5](https://github.com/doloopwhile/elm-phonecat/tree/master/step-5)** Http and Json.Decoder
+ * **[step-6](https://github.com/doloopwhile/elm-phonecat/tree/master/step-6)** Images and Links
+ * **[step-7](https://github.com/doloopwhile/elm-phonecat/tree/master/step-7)** Port and emulating route
+ * **[step-8](https://github.com/doloopwhile/elm-phonecat/tree/master/step-8)** Implement sub pages
+ * **[step-9](https://github.com/doloopwhile/elm-phonecat/tree/master/step-9)** Checkbox (ngFilter is large topic for AngularJS but trivial for Elm)
+ * **[step-A](https://github.com/doloopwhile/elm-phonecat/tree/master/step-A)** Clickable
 
 # Target Versions
 
