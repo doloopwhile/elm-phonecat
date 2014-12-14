@@ -1,5 +1,6 @@
 build/
 cache/
+/ghp/
 elm-stuff/
 phonecat.html
 phonecat.js

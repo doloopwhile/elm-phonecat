@@ -1,4 +1,5 @@
 require 'rake'
+require 'rake/clean'
 require 'webrick'
 
 task :default => :serve
@@ -10,3 +11,5 @@ end
 task :build do
   sh 'elm-make --yes phonecat.elm --output phonecat.js'
 end
+
+CLEAN << "elm-stuff" << "elm-package.json"
